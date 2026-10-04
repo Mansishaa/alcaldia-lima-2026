@@ -1,0 +1,737 @@
+{
+  "metadata": {
+    "fecha_consulta": "2026-10-03",
+    "jurisdiccion": "Lima Metropolitana",
+    "nota": "Se muestra la primera propuesta de cada dimensión del resumen oficial. Las propuestas no forman parte del puntaje."
+  },
+  "partidos": {
+    "4": {
+      "partido": "ACCION POPULAR",
+      "expediente": "ERM.2026020866",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Implementación del Centro Metropolitano de Inteligencia Urbana y Seguridad, Observatorio Metropolitano del Delito, intervención en zonas críticas, prevención social de la violencia y control de economías ilegales.",
+          "meta": "• 1 centro operativo.• 150 zonas críticas intervenidas.• 48 reportes estratégicos emitidos.• 100,000 jóvenes beneficiados.• 10,000 operativos realizados."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Programa Metropolitano de Formalización Empresarial y Simplificación Administrativa; Red Metropolitana de Centros de Productividad y Desarrollo Empresarial; Programa de Empleo Formal, Capacitación y Reconversión Laboral.",
+          "meta": "150,000 unidades económicas formalizadas.300,000 emprendedores asistidos.250,000 trabajadores capacitados.100,000 MYPE con acceso a financiamiento."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Reúso de aguas residuales; Gobernanza CHIRILÚ; Eficiencia hídrica; Regulación de usos intensivos; Nuevas fuentes de abastecimiento.",
+          "meta": "25 miniplantas operativas; 5,000 ha irrigadas con agua regenerada; 100% de parques metropolitanos regados con agua reutilizada."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecimiento de Capacidades Regionales; Transferencia Progresiva de Competencias; Sistema Metropolitano de Gestión Regional Integrada; Financiamiento de Competencias Regionales; Consejo Lima–Gobierno Nacional.",
+          "meta": "Asumir progresivamente competencias regionales priorizadas en salud, cultura, educación y desarrollo económico."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/da1f8424-3a80-4b1d-91c5-7cdcab12d155.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2980": {
+      "partido": "AHORA NACION - AN",
+      "expediente": "ERM.2026020458",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Crear cunas para la primera infancia, implementar programas de escuelas seguras y protegidas, y desarrollar el programa \"Lima Magist\" para el acceso de los maestros a eventos culturales y científicos, además de articular una red metropolitana de espacios para el aprendizaje.",
+          "meta": "Garantizar una atención integral a la primera infancia, proteger el entorno escolar, inspirar cambios en las prácticas pedagógicas y articular la infraestructura existente para ofrecer mejores condiciones de aprendizaje y desarrollo a los ciudadanos."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Implementar la estrategia \"Fiscalización para el Desarrollo\" para ofrecer capacitación y asistencia técnica, promover la modernización de los mercados municipales e impulsar la reubicación concertada de comerciantes informales a espacios adecuados.",
+          "meta": "Incrementar la formalización, fortalecer los mercados municipales y generar empleo, transformando la fiscalización en una herramienta que impulse el desarrollo económico y reduzca progresivamente la informalidad."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Reducir los niveles de vulnerabilidad física, ambiental y socioeconómica mediante un enfoque de control prospectivo y correctivo, que incluye acciones no estructurales como capacitación y fiscalización, y acciones estructurales como la construcción de defensas ribereñas.",
+          "meta": "Reducir la vulnerabilidad y el riesgo de desastres en Lima Metropolitana, articulando mecanismos de financiamiento para la implementación de medidas estructurales y no estructurales, y limitando el modelo de urbanización que genera riesgo."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Contribuir a la construcción de una ciudad segura mediante la articulación y liderazgo metropolitano, el uso de tecnología e inteligencia para la detección del delito y la utilización de la infraestructura pública como aliada contra el crimen.",
+          "meta": "Implementar una estrategia de seguridad que articule a los diferentes niveles de gobierno, fortalezca la capacidad de investigación criminal mediante tecnología y genere herramientas para la persecución y prevención del delito en toda la ciudad."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/5ac8800d-7ba6-4bd9-afa3-bd409e5b8f96.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "3028": {
+      "partido": "ALIANZA ELECTORAL VENCEREMOS",
+      "expediente": "ERM.2026031462",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Incrementar el acceso oportuno a servicios de salud preventiva municipal en las zonas periféricas y de mayor vulnerabilidad de Lima Metropolitana.",
+          "meta": "1. 500 campañas preventivas al 2030. 2. 300,000 tamizajes al 2030. 3. 200,000 orientaciones al 2030. 4. 200 jornadas de salud mental al 2030. 5. 50,000 adultos mayores atendidos al 2030."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Fortalecer la economía popular y el comercio local, mejorando las condiciones de mercados, ferias, trámites y capacidades de los emprendedores de Lima Metropolitana.",
+          "meta": "1. 50 mercados intervenidos al 2030. 2. 200 ferias realizadas al 2030. 3. 30,000 emprendedores capacitados al 2030. 4. 50% de reducción en tiempos de licencia. 5. Ordenamiento gradual y participativo en zonas priorizadas."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Reducir la vulnerabilidad de la población frente a riesgos y desastres en quebradas, laderas y otras zonas críticas de Lima Metropolitana.",
+          "meta": "1. Mapa publicado en el primer año. 2. 100 puntos críticos monitoreados al 2030. 3. Campañas permanentes de prevención. 4. Coordinación metropolitana activa."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la transparencia, la rendición de cuentas y el acceso ciudadano a la información sobre la gestión de la Municipalidad Metropolitana de Lima.",
+          "meta": "1. Reportes trimestrales desde el primer año. 2. Tablero operativo en 2027. 3. 4 audiencias por año. 4. Datos abiertos de ejecución y metas. 5. Canal ciudadano activo desde el primer año."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/1aa6f5b1-6dec-4540-adad-748d5bd0d7f3.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "1257": {
+      "partido": "ALIANZA PARA EL PROGRESO",
+      "expediente": "ERM.2026032561",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Recuperar el 100% de los parques metropolitanos del SERPAR y garantizar rutas seguras con iluminación, cámaras y botones de pánico en todas las jurisdicciones para el año 2029.",
+          "meta": "Reducir la tasa de victimización a menos del 20%."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Incrementar del 15% al 30% la proporción de MYPE limeñas con acceso a financiamiento formal para el año 2030.",
+          "meta": "Lograr que el 30% de las MYPE cuenten con financiamiento."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Impulsar proyectos de inversión.",
+          "meta": "Asignar un porcentaje del Presupuesto Participativo para su debida atención."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Digitalizar el 90% de los trámites administrativos de la Municipalidad Metropolitana de Lima para el año 2030.",
+          "meta": "Lograr que el 90% o más de los trámites sean digitales."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/ebca9562-6970-43ec-990d-3a3e27bf1b14.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2173": {
+      "partido": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "expediente": "ERM.2026020277",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Modernizar y profesionalizar el serenazgo metropolitano.",
+          "meta": "Capacitar y certificar a 10 mil serenos metropolitanos."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Fortalecer la competitividad y formalización de las MYPE.",
+          "meta": "Beneficiar a 200 mil MYPE mediante programas de capacitación, asistencia y formalización."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Fortalecer la recuperación ecológica y la ampliación de áreas verdes.",
+          "meta": "Plantar 500 mil árboles y recuperar 2,000 hectáreas de espacios verdes y ecosistemas urbanos."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la integridad pública y el control preventivo.",
+          "meta": "Implementar estándares de integridad y control en el 100% de las áreas metropolitanas."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/6363dca0-efe7-4057-93c2-b57829888833.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2984": {
+      "partido": "BATALLA PERU",
+      "expediente": "ERM.2026020992",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Implementar una estrategia metropolitana de seguridad preventiva, recuperación de espacios públicos, iluminación, patrullaje integrado y prevención de violencia contra mujeres, niñas, niños y adolescentes.",
+          "meta": "2030: 100 % de distritos con cuadrantes priorizados interoperables. 500 espacios públicos recuperados y mantenidos."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Impulsar movilidad urbana sostenible mediante corredores seguros, gestión inteligente del tránsito, integración con ATU, ciclovías conectadas y priorización del transporte público.",
+          "meta": "2030: 300 km de vías priorizadas intervenidas. 250 km de ciclovías conectadas y mantenidas."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Modernizar la limpieza pública y la economía circular mediante segregación en fuente, valorización, rutas eficientes, fiscalización y plantas de tratamiento con enfoque interdistrital.",
+          "meta": "2030: 70 % de hogares con disposición adecuada. 25 % de residuos municipales valorizados."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Consolidar gobernanza metropolitana mediante pactos territoriales, mesas interdistritales, coordinación con sectores, presupuesto orientado a resultados y seguimiento de brechas.",
+          "meta": "2030: 10 pactos metropolitanos implementados. 100 % de proyectos estratégicos con gobernanza interinstitucional."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/75ea8319-3b0c-4cdd-bfc9-e794ff34f400.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2982": {
+      "partido": "COALICION TRANSFORMADORA TIERRA VERDE",
+      "expediente": "ERM.2026022326",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Mitigar la vulnerabilidad alimentaria y de salud en los sectores de pobreza extrema, promoviendo la autonomía económica de las familias.",
+          "meta": "Reducir la prevalencia de anemia a menos del 22.0%. Alcanzar que el 90% de los locales de apoyo alimentario cuenten con equipamiento e infraestructura óptima."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Garantizar la seguridad e inocuidad alimentaria de los productos que abastecen a la capital, ordenando la cadena de comercialización mayorista y minorista.",
+          "meta": "Lograr que el 85% de los mercados de abastos tradicionales cuenten con certificación sanitaria e ITSE. Clausurar el 100% de los camales clandestinos."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Transicionar la provincia hacia un modelo de economía circular urbana, garantizando la equidad en el ornato y la calidad ambiental del aire.",
+          "meta": "Alcanzar el 20.0% de residuos sólidos municipales valorizados y reciclados en origen para el año 2030."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Elevar los estándares de integridad, digitalización e interoperabilidad de la administración pública metropolitana para erradicar la inconducta funcional.",
+          "meta": "Ubicar a la provincia en el tercio inferior del índice de corrupción a nivel nacional. Digitalizar el 95% de los trámites de cara al ciudadano."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/1f6994ec-6766-4a61-ae10-08afe4bb718f.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2901": {
+      "partido": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+      "expediente": "ERM.2026023215",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Contribuir a la reducción de la anemia infantil y fortalecer la seguridad alimentaria de la población vulnerable.",
+          "meta": "Reducir la anemia infantil a menos del 15%."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Descentralizar las oportunidades económicas y fortalecer polos de desarrollo territorial.",
+          "meta": "Implementar 10 polos de desarrollo económico metropolitano."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Fortalecer la resiliencia climática y la gestión integral del riesgo de desastres.",
+          "meta": "Intervenir el 100% de las zonas priorizadas con riesgo alto y muy alto."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la integridad pública, la transparencia y la lucha contra la corrupción.",
+          "meta": "Lograr que el 100% de la información estratégica de la gestión se encuentre disponible en plataformas de acceso público."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/ef0a2479-1e35-4ba1-b0ba-c311a8ae86ad.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "3009": {
+      "partido": "FUERZA CIUDADANA",
+      "expediente": "ERM.2026023199",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Recuperar y mejorar los espacios públicos para fortalecer la convivencia ciudadana y la integración social.",
+          "meta": "Recuperar parques metropolitanos, mejorar losas deportivas, implementar espacios recreativos, desarrollar programas culturales y deportivos, y mejorar el mobiliario urbano."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Mejorar la movilidad urbana mediante infraestructura vial y gestión inteligente del tránsito.",
+          "meta": "Mejorar las vías metropolitanas, optimizar la semaforización, implementar una gestión inteligente del tránsito, desarrollar infraestructura complementaria e intervenir en puntos críticos de congestión."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Fortalecer la gestión integral de residuos y promover una ciudad ambientalmente sostenible.",
+          "meta": "Optimizar los servicios de limpieza pública, ejecutar programas de reciclaje, impartir educación ambiental, implementar puntos de segregación y promover la economía circular."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la transparencia y la rendición permanente de cuentas.",
+          "meta": "Asegurar la publicación permanente de información institucional, realizar audiencias públicas descentralizadas, emitir informes periódicos de gestión, fomentar la vigilancia ciudadana y fortalecer el control interno."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/68cc35dd-2173-451b-9982-d334e0dbd1d2.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "1366": {
+      "partido": "FUERZA POPULAR",
+      "expediente": "ERM.2026022695",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Mejorar las condiciones de vida mediante intervenciones sociales, recuperación de espacios públicos, accesibilidad urbana y apoyo a familias vulnerables.",
+          "meta": "Priorizar intervenciones en Lima Norte, Lima Este, Lima Sur y zonas periféricas con mayores brechas."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Consolidar centralidades económicas, corredores logísticos y movilidad integrada para mejorar la competitividad metropolitana.",
+          "meta": "Elevar centralidades de 18 a 26 y reducir el tiempo promedio de viaje en 25% al 2030."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Mejorar la calidad ambiental mediante fiscalización, monitoreo ambiental, movilidad sostenible y tecnologías limpias.",
+          "meta": "Lograr que más del 50% de familias urbanas segreguen residuos al 2030."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Consolidar un sistema de gobierno abierto, control ciudadano y seguimiento público del cumplimiento del plan.",
+          "meta": "Publicar avances trimestrales y realizar audiencias públicas semestrales de rendición de cuentas."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/06b1424b-84b0-4a3a-a0a2-67891fa506c5.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "1264": {
+      "partido": "JUNTOS POR EL PERU",
+      "expediente": "ERM.2026021139",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Fortalecer la seguridad ciudadana en la ejecución de obras civiles a través de la articulación con la PNP, serenazgo, videovigilancia y drones, para asegurar que las obras se desarrollen sin la interferencia de organizaciones criminales.",
+          "meta": "Eliminar las bandas criminales vinculadas a obras civiles, lograr que el 100% de las obras públicas y privadas cuenten con un plan de seguridad integral y reducir a cero las extorsiones en obras priorizadas al 2030."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Implementar la Red Metropolitana de Innovación y Tecnología para formar a jóvenes en inteligencia artificial, programación, robótica, ciberseguridad y emprendimiento digital, fortaleciendo el ecosistema de innovación local.",
+          "meta": "Crear 8 Centros Tecnológicos e de innovación (dos por cada zona de Lima); capacitar a 500,000 jóvenes en competencias digitales; e incubar y acelerar 10,000 emprendimientos tecnológicos para el 2030."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Desarrollar el programa de Economía Circular Metropolitana, enfocado en la valorización integral de los residuos.",
+          "meta": "Duplicar la tasa actual de reciclaje en la ciudad y garantizar que el 100% de los mercados de abasto cuenten con sistemas de gestión de residuos."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Implementar una Oficina Metropolitana de Gestión de Proyectos (PMO) con personal calificado para optimizar la planificación, ejecución y seguimiento de inversiones, e implementar la plataforma \"Lima Investment\".",
+          "meta": "Superar el 95% de ejecución presupuestal anual; monitorear el 100% de los proyectos estratégicos; reducir en 40% el tiempo de ejecución de proyectos; y lograr que al menos el 80% de los proyectos culminen en los plazos establecidos."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/863489f9-35ea-4dec-bd76-703d652b1c29.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2930": {
+      "partido": "PARTIDO APRISTA PERUANO",
+      "expediente": "ERM.2026032138",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Fortalecer la seguridad ciudadana metropolitana mediante la prevención del delito, una plataforma integrada de videovigilancia y la coordinación permanente con la PNP y el Ministerio del Interior.",
+          "meta": "Reducción del 30% en la victimización y 100% de los 42 distritos interconectados a la plataforma metropolitana de seguridad al 2030."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Cumplir la cuota legal de empleo en la Municipalidad y sus empresas, y generar nichos laborales concretos con formación específica para personas con discapacidad.",
+          "meta": "Alcanzar el 100% de cumplimiento de la cuota legal en la MML y sus empresas; y formar a 1,500 personas con discapacidad en orientación turística y guiado."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Implementar una política metropolitana de tenencia responsable, sanidad animal y control de zoonosis, basada en registro, esterilización y vacunación.",
+          "meta": "Publicar un censo metropolitano en el primer año, implementar un registro de canes interoperable, realizar 120,000 esterilizaciones gratuitas y alcanzar una cobertura de vacunación antirrábica no menor al 90%."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Constituir el catastro metropolitano como una infraestructura de datos de la ciudad, integrándolo con el registro de riesgo y la fiscalización tributaria.",
+          "meta": "Elevar la incorporación de gobiernos locales al catastro metropolitano del 4.65% al 60%, corrigiendo el retroceso previsto en la programación institucional."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/a775b8e8-202f-44cc-86ef-6465c60d4799.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2941": {
+      "partido": "PARTIDO CIVICO OBRAS",
+      "expediente": "ERM.2026021969",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Generar bancos de suelo estatal para proyectos de Vivienda de Interés Social, potenciar subsidios como Techo Propio y Mi Vivienda, e implementar programas masivos de mejoramiento integral de barrios.",
+          "meta": "Habilitar un promedio de 15,000 nuevas hectáreas de suelo urbano formal en la periferia y movilizar recursos anuales superiores a los S/ 3,600 millones en créditos y subsidios habitacionales."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Priorizar un portafolio de inversiones en transporte masivo subterráneo, ordenamiento vial integral y desarrollo tecnológico, incluyendo la ampliación de la red de Metro, corredores exclusivos y soluciones de micromovilidad.",
+          "meta": "Reducir los tiempos de traslado en las principales vías troncales y aumentar los kilómetros de ciclovías conectadas, con proyectos clave como la Línea 2 del Metro finalizada hacia 2028."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Implementar estrategias de gestión prospectiva, correctiva y reactiva, incluyendo la incorporación del riesgo en la planificación urbana, la ejecución de obras de mitigación y el fortalecimiento de la preparación comunitaria.",
+          "meta": "Implementar sistemas de alerta temprana (SAT) operativos y asegurar el cumplimiento de los proyectos de inversión pública orientados a la reducción de la vulnerabilidad."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Implementar el Gobierno Digital en las entidades municipales para agilizar los trámites, reducir la corrupción y hacer más eficiente la gestión de la información, junto con la modernización y simplificación administrativa.",
+          "meta": "Actualizar el 100% de los manuales de procedimientos (MAPRO) y el Reglamento de Organización y Funciones (ROF) de la entidad."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/e2c6761b-a593-4947-88d5-dc223fb92f34.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2961": {
+      "partido": "PARTIDO DEL BUEN GOBIERNO",
+      "expediente": "ERM.2026032574",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Garantizar mejores condiciones nutricionales para niños, madres gestantes y población vulnerable.",
+          "meta": "Reducir significativamente la anemia infantil y la inseguridad alimentaria en hogares vulnerables para el año 2030."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Desarrollar la Marca Lima Metropolitana y circuitos turísticos integrados que pongan en valor el patrimonio.",
+          "meta": "Consolidar a Lima como un destino turístico cultural y gastronómico de clase mundial."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Actualizar e implementar instrumentos metropolitanos de planificación territorial y renovación urbana.",
+          "meta": "Lograr un crecimiento urbano ordenado y planificado, reduciendo la ocupación de zonas vulnerables."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Implementar el Sistema Metropolitano de Gobernanza y Coordinación Territorial para la gestión integrada de problemas metropolitanos.",
+          "meta": "Consolidar un sistema de gobernanza metropolitana que permita la articulación efectiva para la solución de problemas comunes."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/bd8332dd-0cff-448d-91fa-ceace2968697.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2895": {
+      "partido": "PARTIDO DEMOCRATA VERDE",
+      "expediente": "ERM.2026021304",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Fortalecer y liderar la seguridad ciudadana en coordinación con las municipalidades, la sociedad organizada y otras instituciones para reducir la inseguridad y el delito.",
+          "meta": "Duplicar al año 2026 el presupuesto institucional en lo referente a la Seguridad Ciudadana."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Promover la puesta en valor de las áreas comerciales y productivas, el fortalecimiento de las unidades empresariales, la creación de una cultura del trabajo y la generación de un nivel de calidad óptima para el consumidor.",
+          "meta": "Actualizar al 100% el registro de estibadores organizados de los conglomerados comerciales del Cercado de Lima."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Lograr un ambiente saludable mediante el manejo adecuado de residuos sólidos, el incremento de áreas verdes y el control de la contaminación ambiental, fomentando la preservación y mejoramiento del medio ambiente.",
+          "meta": "Implementar un 50% de nuevas áreas verdes en zonas de alto riesgo y con mayor población vulnerable."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Preparar el proceso de transformación de la Ciudad de Lima para convertirse en una Ciudad Smart City o ciudad inteligente de acuerdo a los adelantos tecnológicos.",
+          "meta": "Alcanzar un 50% de avance del Plan piloto para la implementación de WiFi libre en plazas, parques y paraderos del Cercado de Lima."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/951db97a-92a1-40e9-a295-41250a4cd712.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "14": {
+      "partido": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "expediente": "ERM.2026015986",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Modernizar la gestión estratégica mediante inteligencia y análisis de información.",
+          "meta": "40%."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Impulsar la competitividad y sostenibilidad del ecosistema empresarial de Lima Metropolitana, mediante la adopción de una cultura y modelos de negocios verdes, inclusivos, digitales y certificados, fomentando la formalización y la innovación en los sectores de mayor impacto productivo.",
+          "meta": "Creación del \"Sello Lima Innova\" A los 2 Años (Escalamiento): 15 convenios estratégicos con universidades y gremios. 5,000 empresas locales operando con procesos digitales. Inclusión: 50% de participación femenina en programas de alta tecnología. A los 4 Años (Legado): Lima reconocida como \"Ciudad Innovadora y Sostenible\". Meta: Sube 10 posiciones en el ranking regional de Smart Cities."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Integrar infraestructura ambiental con el desarrollo territorial y logístico metropolitano.",
+          "meta": "Desarrollo progresivo de corredores logísticos y ambientales vinculados al AVP y recuperación territorial de zonas degradadas."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer y desarrollar el gobierno metropolitano (financiamiento, competencias).",
+          "meta": "Cinco (5) Mesas Ejecutivas instaladas y en operación al finalizar la gestión."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/a6663c58-46ed-4a05-8057-d535744bc9a6.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2857": {
+      "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "expediente": "ERM.2026016550",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Reducir los niveles de inseguridad ciudadana mediante la planificación de metas contra la victimización, la identificación y tipificación de delitos recurrentes para acciones preventivas, y el fortalecimiento de los mecanismos de seguimiento y monitoreo del plan de prevención.",
+          "meta": "Generar resultados positivos en la reducción de los indicadores de inseguridad ciudadana y mejorar la calidad de vida en la ciudad a través de un enfoque basado en prevención, tecnología e inteligencia territorial."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Implementar una Red Metropolitana de Corredores Comerciales y Productivos, desarrollar un sistema de mercados modernos y seguros, y promover la formalización progresiva del comercio ambulatorio.",
+          "meta": "Modernizar la infraestructura comercial de la ciudad, creando espacios públicos para la actividad económica que combinen modernidad, seguridad y competitividad, e impulsando clústeres económicos especializados por territorio."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Fortalecer la Gestión del Riesgo de Desastres mediante acciones preventivas como el mantenimiento de cauces de ríos, la protección de fajas marginales y el desarrollo de un programa de reforzamiento sísmico de infraestructura crítica.",
+          "meta": "Reducir la vulnerabilidad de la población y proteger la infraestructura crítica, fortaleciendo la capacidad de respuesta ante emergencias mediante la implementación de un Observatorio Metropolitano de Riesgos y la mejora del equipamiento."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la seguridad jurídica de la gestión municipal mediante la creación de una comisión de gestión de controversias, la realización de auditorías preventivas y la implementación de mecanismos de solución temprana de conflictos.",
+          "meta": "Prevenir y gestionar eficientemente las controversias legales y contractuales para reducir las contingencias económicas, proteger los intereses de la ciudad y atraer inversión privada."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/f2854d99-9e4c-4370-b9ca-8d8944fe700a.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2840": {
+      "partido": "PARTIDO MORADO",
+      "expediente": "ERM.2026022356",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Transformar estructuralmente el sistema educativo para revertir los rezagos en los aprendizajes esenciales, elevando los niveles de comprensión lectora, fortaleciendo las competencias de razonamiento matemático y fomentando la educación técnico-productiva.",
+          "meta": "Crear la \"Beca Lima Capital\" con un sistema de selección de doble filtro que evalúa la vulnerabilidad socioeconómica (SISFOH) y premia el mérito académico."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Mitigar la tasa de mortalidad empresarial a través de un enfoque que combine seguridad ciudadana, desburocratización, inclusión financiera y soporte predictivo para el emprendedor, protegiéndolos de la extorsión y facilitando el acceso a financiamiento.",
+          "meta": "Implementar la Plataforma Digital de Licencia Única Metropolitana para emitir licencias electrónicas de forma automática e inyectar microcréditos formales y líneas de factoring en menos de 24 horas."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Transitar hacia un modelo de ciudad sostenible e inteligente, sustituyendo la gestión reactiva por políticas basadas en la economía circular, la analítica de datos, el Internet de las Cosas (IoT) y la preservación de la infraestructura natural.",
+          "meta": "Implementar una red densa de nodos de monitoreo ambiental con sensores IoT e IA para predecir crisis de esmog, y exigir que las nuevas flotas de transporte utilicen exclusivamente motores eléctricos o Gas Natural Vehicular (GNV)."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Realizar una reingeniería de la gestión pública para solucionar el débil ordenamiento territorial y la desarticulación institucional, transitando hacia un modelo de Gobernanza Metropolitana Abierta, Inteligente e Íntegra.",
+          "meta": "Implementar una única plataforma basada en SIG para centralizar de forma obligatoria las capas cartográficas de los 43 distritos, e institucionalizar el Consejo de Alcaldes de la Provincia como el máximo órgano vinculante de coordinación metropolitana."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/adf0153a-55bf-4d46-8605-e2fb69a2f7a0.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2869": {
+      "partido": "PARTIDO PATRIOTICO DEL PERU",
+      "expediente": "ERM.2026018647",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Fortalecer progresivamente la salud preventiva, la nutrición y la atención comunitaria a través de campañas de prevención de anemia, salud visual y dental, seguimiento de enfermedades, atención y acompañamiento comunitario, y programas de nutrición.",
+          "meta": "Ejecutar campañas de prevención de anemia, salud visual y dental, así como acciones de seguimiento preventivo, atención comunitaria, programas de nutrición y acompañamiento comunitario durante el período 2027-2030."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Promover el fortalecimiento económico simplificando la gestión administrativa, reduciendo las trabas burocráticas para licencias y autorizaciones, y mejorando la atención a los agentes económicos.",
+          "meta": "Simplificar procedimientos administrativos, optimizar trámites de licencias y autorizaciones, y fortalecer la atención a comerciantes y emprendedores durante el período 2027-2030."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Fortalecer la coordinación ambiental interinstitucional y con la ciudadanía para el cuidado del ambiente, la recuperación de áreas públicas y el fomento de la responsabilidad comunitaria.",
+          "meta": "Ejecutar acciones de coordinación ambiental, acciones conjuntas de recuperación de áreas públicas y desarrollar actividades de responsabilidad comunitaria ambiental durante el período 2027-2030."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Consolidar una gestión municipal transparente, eficiente y cercana al ciudadano, fortaleciendo la transparencia, la supervisión del uso de recursos, la fiscalización de servicios y una cultura de honestidad.",
+          "meta": "Fortalecer los mecanismos de transparencia, ejecutar acciones de supervisión del uso de recursos y de fiscalización de servicios públicos durante el período 2027-2030."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/ef346034-8ebc-456f-84de-33bbffba9974.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2218": {
+      "partido": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "expediente": "ERM.2026022988",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Complementar y reorientar el sistema de salud, ampliando la demanda de servicios en los Hospitales de la Solidaridad y enfocándose en la atención de primera línea para mejorar el acceso y la calidad.",
+          "meta": "Ampliar los servicios de los Hospitales de la Solidaridad en puntos críticos, crear 4 hospitales móviles para atender a población adulta mayor y niñez, y firmar un convenio para la digitalización e interconexión de historias clínicas."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Desarrollar un programa de desarrollo económico para mujeres que permita mejorar sus ingresos y obtener independencia económica.",
+          "meta": "Reorientar la estrategia de capacitación municipal hacia sectores productivos como la construcción, electricidad y carpintería, ofreciendo cursos que generen un buen ingreso para las mujeres."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Implementar un sistema efectivo de segregación, reciclaje y compostaje para el tratamiento de residuos sólidos.",
+          "meta": "Crear dos plantas de tratamiento de residuos basadas en alianzas entre distritos de mayor población, que sirvan como modelo para ser replicado en el resto de la capital."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Implementar medidas concretas para frenar el avance de la corrupción y fortalecer la institucionalidad y la transparencia en la gestión municipal.",
+          "meta": "Fortalecer la procuraduría municipal, transparentar todas las órdenes de servicio, compras y contrataciones de personal, incluir cláusulas anticorrupción en todo contrato y hacer seguimiento mediante cabildos abiertos."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/ab17d7b6-31eb-43f1-b6f6-4030d81505bc.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "3001": {
+      "partido": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+      "expediente": "ERM.2026022031",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Repotenciar el Sistema de Hospitales de la Solidaridad (SISOL) hacia un enfoque preventivo, creando centros de salud mental, desplegando clínicas móviles y realizando campañas de salud bucal.",
+          "meta": "Lograr que el 40% de las atenciones anuales se enfoquen en medicina preventiva y salud mental."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Ordenar e incluir al comercio ambulatorio mediante empadronamiento y reubicación, e impulsar a las PYMES facilitando licencias de funcionamiento a través de una plataforma digital.",
+          "meta": "Digitalización al 100% de las licencias metropolitanas para su obtención en un solo día."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Implementar un sistema metropolitano que industrialice los residuos, estableciendo la segregación obligatoria en fuente, construyendo plantas de valorización y fiscalizando el arrojo de desmonte.",
+          "meta": "Alcanzar el reciclaje formal del 35% del total de residuos sólidos generados en la provincia."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Garantizar la transparencia radical mediante la transmisión en vivo de las licitaciones, la implementación del control concurrente obligatorio y la creación de un canal de denuncias anónimas.",
+          "meta": "Transmitir en tiempo real el 100% de las licitaciones públicas y asegurar que sean auditadas por la Contraloría."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/2e51f590-d5f5-4328-90a8-c17b29668b2e.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2943": {
+      "partido": "PARTIDO POPULAR CRISTIANO - PPC",
+      "expediente": "ERM.2026020544",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Mejorar la movilidad urbana de Lima Metropolitana mediante la modernización del sistema de transporte, la ampliación de la infraestructura vial y la gestión inteligente del tránsito. Promover la implementación del Sistema Metropolitano Integrado de Movilidad Urbana que articule transporte público masivo, infraestructura moderna y fiscalización efectiva.",
+          "meta": "Reducir en al menos un tercio el tiempo que los limeños pierden diariamente en el tráfico al 2030. Asegurar el financiamiento sostenido y oportuno de la infraestructura vial estratégica. Consolidar un Sistema Metropolitano Integrado de Movilidad Urbana bajo el liderazgo de la Municipalidad Metropolitana de Lima."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Fortalecer la competitividad económica de Lima Metropolitana mediante el desarrollo de infraestructura económica estratégica, el ordenamiento territorial y la promoción de inversiones. Implementar un Programa Metropolitano de Infraestructura Económica y Competitividad para promover la construcción y modernización de infraestructura productiva.",
+          "meta": "Reducir en 60% las brechas de infraestructura económica de Lima Metropolitana y contribuir a generar al menos 300 mil nuevos empleos mediante inversiones en infraestructura vial, logística, comercial e industrial al 2030."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Garantizar la seguridad hídrica de Lima Metropolitana mediante la protección de las fuentes de agua, el incremento de la oferta hídrica y la mejora de la infraestructura. Implementar un Plan Metropolitano de Seguridad Hídrica y asumir la administración de SEDAPAL.",
+          "meta": "Lograr que el 100% de las familias de Lima tengan acceso permanente a agua potable y exigir que el Poder Ejecutivo aumente en por lo menos 20% la disponibilidad hídrica de la ciudad al 2030."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la gobernanza, la capacidad de gestión institucional y la sostenibilidad financiera de la Municipalidad, garantizando una administración eficiente, transparente y orientada a resultados. Implementar una Reforma Integral de Modernización y Transparencia Municipal.",
+          "meta": "Convertir a la Municipalidad Metropolitana de Lima en una institución moderna, transparente y eficiente, logrando que el 100% de las obras cuenten con expediente técnico, reduciendo significativamente la deuda municipal y alcanzando los máximos niveles de satisfacción ciudadana."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/8e534c1c-1d2d-4d2b-ad11-90cf07ff1924.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2731": {
+      "partido": "PODEMOS PERU",
+      "expediente": "ERM.2026020712",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Construir un Sistema Metropolitano de Cuidados para adultos mayores que articule servicios de atención domiciliaria, centros de día, voluntariado vecinal y monitoreo de situación de riesgo en los 42 distritos.",
+          "meta": "Sistema Metropolitano de Cuidados operativo en los 42 distritos al 2029. Atención a 50,000 adultos mayores en situación de vulnerabilidad al 2030."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Reducir la informalidad laboral y comercial en Lima mediante una política de formalización progresiva que combine simplificación de trámites, acompañamiento técnico, acceso a mercados y ordenamiento del espacio público.",
+          "meta": "Reducción de 5 puntos porcentuales en la tasa de informalidad laboral al 2030. 5,000 comerciantes ambulantes formalizados o reubicados en el Cercado de Lima al 2030."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Mejorar la gestión integral de residuos sólidos bajo un enfoque de economía circular, trazabilidad, formalización de recicladores y valorización de residuos orgánicos.",
+          "meta": "Aprovechar progresivamente al menos el 12% de los residuos sólidos municipales generados en Lima Metropolitana, cuadruplicando la tasa actual de valorización, con reporte público trimestral."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Fortalecer la integridad institucional y la lucha anticorrupción en la gestión municipal.",
+          "meta": "Ejecutar el 100% de las acciones del Plan Anticorrupción Institucional, con metas verificables y reporte público trimestral a la ciudadanía."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/08bd9c95-efa5-4ce8-a6a3-905cad8b9f9b.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2967": {
+      "partido": "PROGRESEMOS",
+      "expediente": "ERM.2026032142",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Garantizar el mejoramiento, equipamiento y la calidad de la infraestructura de los servicios educativos.",
+          "meta": "Elevar al 40% el total de instituciones educativas provinciales con infraestructura óptima, reduciendo el déficit actual del 80% al 60%."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Impulsar la formalización comercial y el fortalecimiento de las MYPES en la ciudad.",
+          "meta": "Lograr la formalización del 40% de los comerciantes informales registrados en el padrón municipal base al 2030."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Optimizar el sistema integral de gestión de residuos sólidos mediante un servicio de recolección eficiente, sostenible y con disposición final segura en la provincia.",
+          "meta": "Lograr el 95% de cobertura de recolección en zonas urbanas y periféricas al 2030 con frecuencias optimizadas, en un nuevo Relleno Sanitario Provincial."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Modernizar la gestión municipal hacia una administración transparente, digital y libre, luchando frontalmente contra la corrupción sin excepción.",
+          "meta": "Obtener la Certificación ISO 37001 (Sistema de Gestión Antisoborno) en las áreas de Logística y Tesorería."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/f4c48e19-ec73-4e97-9da5-484d45293347.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "3040": {
+      "partido": "RENOVACION POPULAR PERU",
+      "expediente": "ERM.2026020718",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Implementar la Red Metropolitana de Hospitales Solidarios, hospitales especializados, telemedicina, ambulancias y centros de diagnóstico integral.",
+          "meta": "Descentralizar y ampliar la cobertura de salud preventiva y especializada en toda Lima Metropolitana."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Ejecutar grandes proyectos de transporte y conectividad: Líneas 3 y 4 del Metro, Tren Chosica–Callao, intercambios viales, túneles, puentes, vías rápidas y semaforización inteligente.",
+          "meta": "Reducir los tiempos de desplazamiento y mejorar la movilidad urbana."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Implementar infraestructura preventiva, gestión de riesgos y fortalecimiento de la capacidad de respuesta ante emergencias.",
+          "meta": "Reducir la vulnerabilidad de la ciudad frente a desastres naturales."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Digitalización de servicios, uso de inteligencia artificial, voluntariado municipal y mecanismos de participación vecinal.",
+          "meta": "Lograr una gestión moderna, eficiente y cercana a la ciudadanía."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/789b6e2b-0ef9-4471-b29b-3a19bfad095d.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    },
+    "2988": {
+      "partido": "VISION PERU",
+      "expediente": "ERM.2026016406",
+      "propuestas": [
+        {
+          "tema": "Social",
+          "propuesta": "Crear el Pacto Metropolitano por el Agua, Saneamiento y Seguridad Hídrica, articulando a la Municipalidad Metropolitana de Lima, Sedapal, Ministerio de Vivienda, Construcción y Saneamiento, distritos y la comunidad.",
+          "meta": "Reducir las brechas de acceso al agua y preparar a Lima frente a escenarios de escasez hídrica."
+        },
+        {
+          "tema": "Económica",
+          "propuesta": "Ejecutar el programa \"Lima Limpia 24/7\", con limpieza permanente, fiscalización, reciclaje formal y promoción de la economía circular.",
+          "meta": "Reducir los puntos críticos de residuos y convertir la limpieza pública en un servicio visible, permanente y fiscalizable."
+        },
+        {
+          "tema": "Ambiental",
+          "propuesta": "Aplicar el programa \"Invasiones Cero y Barrios Seguros\", con ordenamiento territorial, prevención y protección de familias vulnerables.",
+          "meta": "Detener las nuevas invasiones y reducir progresivamente las viviendas ubicadas en zonas de riesgo extremo."
+        },
+        {
+          "tema": "Institucional",
+          "propuesta": "Implementar una política de arbitrios reales y justos, en función de los servicios que se brindan, para mejorar la recaudación y la confianza.",
+          "meta": "Elevar la confianza del contribuyente y mejorar la recaudación económica, sin abusos ni arbitrariedad."
+        }
+      ],
+      "plan_url": "https://votoinformado.jne.gob.pe/mpesije/docs/edc5aa1f-0c12-474b-a75b-e8a216ebffa9.pdf",
+      "fuente": "Jurado Nacional de Elecciones · Voto Informado"
+    }
+  }
+}
