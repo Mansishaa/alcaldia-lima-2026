@@ -1,0 +1,469 @@
+{
+  "candidatos": [
+    {
+      "url": "https://www.revisatucandidato.pe/candidatos/rafael-bernardo-lopez-aliaga-cazorla-07845838",
+      "listado": {
+        "id": 98,
+        "dni": "07845838",
+        "name": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
+        "party": "Renovacion Popular Peru",
+        "partyId": 52,
+        "partyJneId": 3040,
+        "partyLogoUrl": "https://sroppublico.jne.gob.pe/Consulta/Simbolo/GetSimbolo/3040",
+        "photoUrl": "https://mpesije.jne.gob.pe/apidocs/b2e00ae2-1e50-4ad3-a103-71fc7e4e8255.jpg",
+        "number": 1,
+        "status": "INSCRITO"
+      },
+      "candidato": {
+        "id": 98,
+        "nombre": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
+        "partidoId": 3040,
+        "partido": "RENOVACION POPULAR PERU",
+        "candidaturas": [
+          {
+            "categoria": "municipal",
+            "cargo": "REGIDOR PROVINCIAL",
+            "estado": "INSCRITO",
+            "numero": 1,
+            "proceso": "ERM2026",
+            "partido": "RENOVACION POPULAR PERU",
+            "partidoId": 3040,
+            "region": "LIMA",
+            "jurisdiccion": "LIMA"
+          }
+        ],
+        "procesos": [
+          {
+            "slug": "ERM2026",
+            "nombre": "Elecciones Regionales y Municipales 2026",
+            "fecha": "2026-10-04"
+          },
+          {
+            "slug": "EG2026",
+            "nombre": "Elecciones Generales 2026",
+            "fecha": "2026-04-13"
+          }
+        ],
+        "region": "LIMA",
+        "genero": "Masculino",
+        "edad": 65,
+        "foto": "https://mpesije.jne.gob.pe/apidocs/b2e00ae2-1e50-4ad3-a103-71fc7e4e8255.jpg",
+        "dni": "07845838"
+      },
+      "detalle": {
+        "educacion": [],
+        "trayectoria": [
+          {
+            "proceso": "ELECCIONES GENERALES 2011",
+            "cargo": "CONGRESISTA DE LA REPÚBLICA",
+            "organizacion": "ALIANZA SOLIDARIDAD NACIONAL",
+            "jurisdiccion": "LIMA + RESIDENTES EN EL EXTRANJERO",
+            "elegido": false
+          },
+          {
+            "proceso": "ELECCIONES GENERALES 2021",
+            "cargo": "PRESIDENTE DE LA REPÚBLICA",
+            "organizacion": "RENOVACION POPULAR",
+            "jurisdiccion": "NACION",
+            "elegido": false
+          },
+          {
+            "proceso": "ELECCIONES REGIONALES Y MUNICIPALES 2006",
+            "cargo": "REGIDOR PROVINCIAL",
+            "organizacion": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+            "jurisdiccion": "LIMA - LIMA",
+            "elegido": true
+          },
+          {
+            "proceso": "ELECCIONES REGIONALES Y MUNICIPALES 2022",
+            "cargo": "ALCALDE PROVINCIAL",
+            "organizacion": "RENOVACION POPULAR",
+            "jurisdiccion": "LIMA - LIMA",
+            "elegido": true
+          }
+        ],
+        "afiliaciones": [
+          {
+            "organizacion": "RENOVACION POPULAR",
+            "ambito": "NACIONAL",
+            "fechaInicio": "2009-08-05",
+            "fechaFin": null,
+            "estado": "AFILIADO VÁLIDO"
+          }
+        ],
+        "contratos": {
+          "sunat": {
+            "ruc": "10078458386",
+            "businessName": "LOPEZ ALIAGA CAZORLA RAFAEL",
+            "commercialName": null,
+            "contributorType": "PERSONA NATURAL SIN NEGOCIO",
+            "contributorStatus": "ACTIVO",
+            "contributorCondition": "HABIDO",
+            "registrationDate": "1993-10-23",
+            "hasCoactiveDebt": false,
+            "coactiveDebts": null
+          },
+          "govContracts": [
+            {
+              "oeceCode": "2@4502318",
+              "category": "SERVICIO",
+              "description": "contratación de profesional para el dictado de cursos",
+              "status": "Contratado",
+              "contractingEntity": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+              "amount": 1352.72,
+              "currency": "PEN",
+              "endDate": null,
+              "isConsortium": false,
+              "ruc": "10078458386"
+            },
+            {
+              "oeceCode": "2@4782254",
+              "category": "SERVICIO",
+              "description": "CONTRATACION DE PROFESIONAL PARA EL DICTADO DE CURSOS",
+              "status": "Contratado",
+              "contractingEntity": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+              "amount": 1352.72,
+              "currency": "PEN",
+              "endDate": null,
+              "isConsortium": false,
+              "ruc": "10078458386"
+            },
+            {
+              "oeceCode": "2@2392352",
+              "category": "SERVICIO",
+              "description": "SERVICIO DE CONTRATACIÓN DE PROFESIONAL PARA EL DICTADO DE CURSOS",
+              "status": "Contratado",
+              "contractingEntity": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+              "amount": 1352.72,
+              "currency": "PEN",
+              "endDate": null,
+              "isConsortium": false,
+              "ruc": "10078458386"
+            }
+          ],
+          "miningRights": [],
+          "empresas": [
+            {
+              "ruc": "20424044203",
+              "businessName": "PERU BELMOND HOTELS S.A.",
+              "isForeign": false,
+              "relations": [
+                "ORG. ADMINISTRACION"
+              ],
+              "sharePercentage": 0,
+              "contributorType": "SOCIEDAD ANONIMA",
+              "contributorStatus": "ACTIVO",
+              "contributorCondition": "HABIDO",
+              "hasCoactiveDebt": false,
+              "coactiveDebtAmount": null,
+              "numContracts": 56,
+              "contractsAmount": 601721.9099999999,
+              "numPenalties": 0,
+              "tcpSanctions": []
+            },
+            {
+              "ruc": "20255637437",
+              "businessName": "E.S.N.E. DE DIRECCION INTERMEDIA CAME",
+              "isForeign": false,
+              "relations": [
+                "ORG. ADMINISTRACION",
+                "REPRESENTANTE"
+              ],
+              "sharePercentage": 0,
+              "contributorType": "UNIVERS. CENTROS EDUCAT. Y CULT.",
+              "contributorStatus": "ACTIVO",
+              "contributorCondition": "HABIDO",
+              "hasCoactiveDebt": false,
+              "coactiveDebtAmount": null,
+              "numContracts": 9,
+              "contractsAmount": 273877,
+              "numPenalties": 0,
+              "tcpSanctions": []
+            },
+            {
+              "ruc": "20468366186",
+              "businessName": "COMPUPALACE PERU S.A.",
+              "isForeign": false,
+              "relations": [
+                "REPRESENTANTE"
+              ],
+              "sharePercentage": 0,
+              "contributorType": "SOCIEDAD ANONIMA",
+              "contributorStatus": "ACTIVO",
+              "contributorCondition": "HABIDO",
+              "hasCoactiveDebt": false,
+              "coactiveDebtAmount": null,
+              "numContracts": 0,
+              "contractsAmount": 0,
+              "numPenalties": 0,
+              "tcpSanctions": []
+            }
+          ]
+        },
+        "propiedades": [],
+        "deudas": {
+          "alimentarias": [],
+          "judiciales": [],
+          "drivingRecord": {
+            "licenseCategory": "AI",
+            "licenseExpiry": "30/06/2022",
+            "licenseStatus": "VENCIDA",
+            "accumulatedPoints": 0,
+            "seriousViolations": 0,
+            "verySeriousViolations": 0,
+            "numPapeletas": 0,
+            "papeletas": [],
+            "numTramites": 3,
+            "numBonificaciones": 5
+          }
+        },
+        "sanciones": {
+          "sentencias": [],
+          "rnas": [],
+          "servir": [],
+          "oeceSanctions": null
+        },
+        "experienciaLaboral": [],
+        "indicadores": {
+          "educacion": 0,
+          "trayectoria": 4,
+          "contratos": 3,
+          "propiedades": 0,
+          "deudas": 0,
+          "sanciones": 0,
+          "experienciaProf": 0
+        }
+      },
+      "proceso": "ERM2026",
+      "companeros_formula": [
+        {
+          "id": 97,
+          "nombre": "NORMA MARTINA YARROW LUMBRERAS",
+          "partidoId": 22,
+          "partido": "RENOVACION POPULAR",
+          "candidaturas": [
+            {
+              "categoria": "presidencial",
+              "cargo": "PRIMER VICEPRESIDENTE DE LA REPÚBLICA",
+              "estado": "INSCRITO",
+              "numero": 2,
+              "proceso": "EG2026",
+              "partido": "RENOVACION POPULAR",
+              "partidoId": 22,
+              "region": null,
+              "jurisdiccion": null
+            },
+            {
+              "categoria": "diputado",
+              "cargo": "DIPUTADO",
+              "estado": "INSCRITO",
+              "numero": 1,
+              "proceso": "EG2026",
+              "partido": "RENOVACION POPULAR",
+              "partidoId": 22,
+              "region": "LIMA METROPOLITANA",
+              "jurisdiccion": "LIMA METROPOLITANA"
+            }
+          ],
+          "procesos": [
+            {
+              "slug": "EG2026",
+              "nombre": "Elecciones Generales 2026",
+              "fecha": "2026-04-13"
+            }
+          ],
+          "region": "LIMA METROPOLITANA",
+          "genero": "Femenino",
+          "edad": 63,
+          "foto": "https://mpesije.jne.gob.pe/apidocs/90b8a957-0b76-41a0-b2a0-62ad6e328327.jpg",
+          "dni": "10806296"
+        },
+        {
+          "id": 99,
+          "nombre": "JHON IVAN RAMOS MALPICA",
+          "partidoId": 22,
+          "partido": "RENOVACION POPULAR",
+          "candidaturas": [
+            {
+              "categoria": "presidencial",
+              "cargo": "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA",
+              "estado": "INSCRITO",
+              "numero": 3,
+              "proceso": "EG2026",
+              "partido": "RENOVACION POPULAR",
+              "partidoId": 22,
+              "region": null,
+              "jurisdiccion": null
+            }
+          ],
+          "procesos": [
+            {
+              "slug": "EG2026",
+              "nombre": "Elecciones Generales 2026",
+              "fecha": "2026-04-13"
+            }
+          ],
+          "region": null,
+          "genero": "Masculino",
+          "edad": 46,
+          "foto": "https://mpesije.jne.gob.pe/apidocs/a5e14bf4-b4f9-470b-8dd1-754e6d8519d3.jpg",
+          "dni": "40641108"
+        }
+      ],
+      "es_finalista": false,
+      "rol_lista": "PRIMER REGIDOR QUE ENCABEZA LISTA SIN CANDIDATO A ALCALDE",
+      "sustituye_id": 31386,
+      "sustituye_nombre": "LUIS ISAEL RUBIO IDROGO"
+    },
+    {
+      "url": "https://www.revisatucandidato.pe/candidatos/yuri-cesar-castro-romero-40444232",
+      "listado": {
+        "id": 4302,
+        "dni": "40444232",
+        "name": "YURI CESAR CASTRO ROMERO",
+        "party": "Partido Politico Nacional Peru Libre",
+        "partyId": 29,
+        "partyJneId": 2218,
+        "partyLogoUrl": "https://sroppublico.jne.gob.pe/Consulta/Simbolo/GetSimbolo/2218",
+        "photoUrl": "https://mpesije.jne.gob.pe/apidocs/5b445786-2e4a-4899-827b-e8fd2af151b2.jpg",
+        "number": 1,
+        "status": "ADMITIDO"
+      },
+      "candidato": {
+        "id": 4302,
+        "nombre": "YURI CESAR CASTRO ROMERO",
+        "partidoId": 2218,
+        "partido": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "candidaturas": [
+          {
+            "categoria": "municipal",
+            "cargo": "REGIDOR PROVINCIAL",
+            "estado": "ADMITIDO",
+            "numero": 1,
+            "proceso": "ERM2026",
+            "partido": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "partidoId": 2218,
+            "region": "LIMA",
+            "jurisdiccion": "LIMA"
+          }
+        ],
+        "procesos": [
+          {
+            "slug": "ERM2026",
+            "nombre": "Elecciones Regionales y Municipales 2026",
+            "fecha": "2026-10-04"
+          },
+          {
+            "slug": "EG2026",
+            "nombre": "Elecciones Generales 2026",
+            "fecha": "2026-04-13"
+          }
+        ],
+        "region": "LIMA",
+        "genero": "Masculino",
+        "edad": 47,
+        "foto": "https://mpesije.jne.gob.pe/apidocs/5b445786-2e4a-4899-827b-e8fd2af151b2.jpg",
+        "dni": "40444232"
+      },
+      "detalle": {
+        "educacion": [],
+        "trayectoria": [
+          {
+            "proceso": "ELECCIONES CONGRESALES EXTRAORDINARIAS 2020",
+            "cargo": "CONGRESISTA DE LA REPÚBLICA",
+            "organizacion": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "jurisdiccion": "LIMA + RESIDENTES EN EL EXTRANJERO",
+            "elegido": false
+          },
+          {
+            "proceso": "ELECCIONES GENERALES 2021",
+            "cargo": "REPRESENTANTE ANTE EL PARLAMENTO ANDINO",
+            "organizacion": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "jurisdiccion": "NACION",
+            "elegido": true
+          },
+          {
+            "proceso": "ELECCIONES REGIONALES Y MUNICIPALES 2018",
+            "cargo": "REGIDOR PROVINCIAL",
+            "organizacion": "PERU LIBERTARIO",
+            "jurisdiccion": "LIMA - LIMA",
+            "elegido": false
+          },
+          {
+            "proceso": "ELECCIONES REGIONALES Y MUNICIPALES 2022",
+            "cargo": "ALCALDE PROVINCIAL",
+            "organizacion": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "jurisdiccion": "LIMA - LIMA",
+            "elegido": false
+          }
+        ],
+        "afiliaciones": [
+          {
+            "organizacion": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "ambito": "NACIONAL",
+            "fechaInicio": "2017-10-09",
+            "fechaFin": null,
+            "estado": "AFILIADO VÁLIDO"
+          }
+        ],
+        "contratos": {
+          "sunat": {
+            "ruc": "10404442321",
+            "businessName": "CASTRO ROMERO YURI CESAR",
+            "commercialName": null,
+            "contributorType": "PERSONA NATURAL SIN NEGOCIO",
+            "contributorStatus": "ACTIVO",
+            "contributorCondition": "HABIDO",
+            "registrationDate": "2003-12-05",
+            "hasCoactiveDebt": false,
+            "coactiveDebts": null
+          },
+          "govContracts": [
+            {
+              "oeceCode": "2@19630671",
+              "category": "SERVICIO",
+              "description": "SERVICIO DE LOCUCIÓN DE VOZ EN OFF PARA LOS MATERIALES COMUNICACIONALES, SOBRE LOS TEMAS DE INTERÉS DEL MINISTERIO DEL AMBIENTE",
+              "status": "Contratado",
+              "contractingEntity": "MINISTERIO DEL AMBIENTE",
+              "amount": 2500,
+              "currency": "PEN",
+              "endDate": null,
+              "isConsortium": false,
+              "ruc": "10404442321"
+            }
+          ],
+          "miningRights": [],
+          "empresas": []
+        },
+        "propiedades": [],
+        "deudas": {
+          "alimentarias": [],
+          "judiciales": [],
+          "drivingRecord": null
+        },
+        "sanciones": {
+          "sentencias": [],
+          "rnas": [],
+          "servir": [],
+          "oeceSanctions": null
+        },
+        "experienciaLaboral": [],
+        "indicadores": {
+          "educacion": 0,
+          "trayectoria": 4,
+          "contratos": 1,
+          "propiedades": 0,
+          "deudas": 0,
+          "sanciones": 0,
+          "experienciaProf": 0
+        }
+      },
+      "proceso": "ERM2026",
+      "companeros_formula": [],
+      "es_finalista": false,
+      "rol_lista": "PRIMER REGIDOR QUE ENCABEZA LISTA SIN CANDIDATO A ALCALDE",
+      "sustituye_id": 466,
+      "sustituye_nombre": "RUBEN JOSE RAMIREZ MATEO"
+    }
+  ]
+}

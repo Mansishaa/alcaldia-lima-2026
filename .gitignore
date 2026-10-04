@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.zip
+*.docx
+.env
+.env.*
+sitio_alcaldes_lima/*.png
+**/.openai/
+
